@@ -1,6 +1,6 @@
 import { useState, useEffect, useCallback } from "react";
 
-const STORAGE_KEY = "referral-tree-data-v4";
+const STORAGE_KEY = "referral-tree-data-v4"; // GitHub-Vercel auto deploy test
 
 const DEFAULT_DATA = {
   members: [
